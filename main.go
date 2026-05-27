@@ -22,5 +22,4 @@ func main() {
 		fmt.Println(num)
 	}
 	fmt.Println("123")
-	fmt.Println("1111121345678910")
 }
